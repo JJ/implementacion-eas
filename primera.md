@@ -41,7 +41,7 @@ Primera sesión de la [asignatura de implementación de algoritmos evolutivos](R
 
 ## Repositorios para los proyectos de los alumnos.
 
-* [Repositorio de Paloma] (https://github.com/unintendedbear/unintendedbear-eas)
+* [Repositorio de Paloma] (https://github.com/unintendedbear/unintendedbear-eas), [Comentarios de la primera sesión del 03/04/14] (https://github.com/unintendedbear/unintendedbear-eas/blob/master/PrimeraSesión.md)
 * [Repositorio de Alfonso] (https://github.com/Investigador/implementacion-eas)
 * [Repositorio de Javi Rodríguez] (https://github.com/seiya64/implementacion-eas)
 * [Repositorio de Antonio Fernández] (https://github.com/deantares/Master-IEAS)
