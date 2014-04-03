@@ -47,3 +47,4 @@ Primera sesión de la [asignatura de implementación de algoritmos evolutivos](R
 * [Repositorio de Antonio Fernández] (https://github.com/deantares/Master-IEAS)
 * [Repositorio de Pablo Escobedo] (https://github.com/pablopaolus/repositorio_pablopaolus)
 * [Repositorio de Juanjo] (https://github.com/rotty11/MiRepositorio)
+* [Repositorio de Pedro] (https://github.com/pjvelasquez/Pedro.git)
