@@ -14,3 +14,4 @@ Durante cada sesión, los alumnos tendrán que hacer lo siguiente
 ## Sesiones de trabajo
 
 * [Primera sesión](primera.md)
+* [Segunda sesión](segunda.md), 10 de abril de 2014.
