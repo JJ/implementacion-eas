@@ -29,6 +29,7 @@ El [algoritmo genético canónico](http://geneura.ugr.es/~jmerelo/evolutionary-c
 Implementa un vector de bits o cadena binaria. En la documentación del mismo, argumenta la estructura de datos que usas. Prueba diferentes estructuras de datos y aplica alguna operación sobre ellos (por ejemplo, generación inicial) para ver cuál ofrece mejores prestaciones.
 
 * [Ejercicio de Paloma, en Perl] (https://github.com/unintendedbear/unintendedbear-eas/blob/master/EA_Paloma.pl), [Documentación] (https://github.com/unintendedbear/unintendedbear-eas/blob/master/SegundaSesi%C3%B3n.md)
+* [Ejercicio de Juanjo, en C++] (https://github.com/rotty11/MiRepositorio/blob/master/ev_crom.cpp), [Documentación] (https://github.com/rotty11/MiRepositorio/blob/master/ev_crom_explicacion.md), [Mediciones] (https://github.com/rotty11/MiRepositorio/blob/master/ev_crom_tiempos.txt)
 
 ## Fitness
 
