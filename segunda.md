@@ -51,6 +51,8 @@ Un operador de mutación cambia un bit (o más) en una cadena de bits. El crosso
 
 ¿Puedes hacer un operador de mutación y otro de crossover? ¿Es adecuada la implementación que elegiste antes?
 
+* [Ejercicio de Juanjo, en C++] (https://github.com/rotty11/MiRepositorio/blob/master/op_mut&cross.cpp), [Documentación] (https://github.com/rotty11/MiRepositorio/blob/master/op_mut&cross_explicacion.md)
+
 ## Selección
 
 En el [algoritmo genético canónico](http://geneura.ugr.es/~jmerelo/evolutionary-computation-perl/x207.html), la selección está basada en rueda de ruleta. En todo caso, la selección se basa en el principio de que aquellos con más fitness deben reproducirse más que los que tengan un fitness inferior. Para ello hay habitualmente varias fases
