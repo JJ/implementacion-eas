@@ -30,6 +30,7 @@ Implementa un vector de bits o cadena binaria. En la documentación del mismo, a
 
 * [Ejercicio de Paloma, en Perl] (https://github.com/unintendedbear/unintendedbear-eas/blob/master/EA_Paloma.pl), [Documentación] (https://github.com/unintendedbear/unintendedbear-eas/blob/master/SegundaSesi%C3%B3n.md)
 * [Ejercicio de Juanjo, en C++] (https://github.com/rotty11/MiRepositorio/blob/master/ev_crom.cpp), [Documentación] (https://github.com/rotty11/MiRepositorio/blob/master/ev_crom_explicacion.md), [Mediciones] (https://github.com/rotty11/MiRepositorio/blob/master/ev_crom_tiempos.txt)
+* [Ejercicio de Pablo, en C++] (https://github.com/pablopaolus/repositorio_pablopaolus/blob/master/bit_array.cpp), [Documentación] (https://github.com/pablopaolus/repositorio_pablopaolus/blob/master/docu_bit_array.md), [Mediciones] (https://github.com/pablopaolus/repositorio_pablopaolus/blob/master/medidas_tiempo.txt)
 
 ## Fitness
 
