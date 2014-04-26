@@ -43,6 +43,7 @@ Como benchmark de algoritmos evolutivos se suele usar MAX-ONES o COUNT-ONES, que
 Implementar esta función. Medir tiempos para diferentes tamaños de cadena, 128, 256, 1024. ¿Cómo se incrementa el tiempo necesario para calcularlo con el tamaño? ¿Es lineal? Usar la técnica descrita anteriormente para llevar a cabo la medición. Finalmente, si una vez implementado se descubre una forma mejor de hacerlo (por ejemplo, la de un compañero) volver a implementarlo y hacer una medición.
 
 * [Ejercicio de Juanjo, en C++] (https://github.com/rotty11/MiRepositorio/blob/master/ev_fitness.cpp), [Documentación] (https://github.com/rotty11/MiRepositorio/blob/master/ev_fitness_explicacion.md), [Mediciones] (https://github.com/rotty11/MiRepositorio/blob/master/ev_fitness_tiempos.txt)
+* [Ejercicio de Pablo, en C++] (https://github.com/pablopaolus/repositorio_pablopaolus/blob/master/fitness.cpp), [Documentación] (https://github.com/pablopaolus/repositorio_pablopaolus/blob/master/docu_fitness.md), [Mediciones] (https://github.com/pablopaolus/repositorio_pablopaolus/blob/master/medidas_tiempo_fitness.txt)
 
 ## Mutación y crossover
 
