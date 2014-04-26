@@ -54,6 +54,7 @@ Un operador de mutación cambia un bit (o más) en una cadena de bits. El crosso
 ¿Puedes hacer un operador de mutación y otro de crossover? ¿Es adecuada la implementación que elegiste antes?
 
 * [Ejercicio de Juanjo, en C++] (https://github.com/rotty11/MiRepositorio/blob/master/op_mut&cross.cpp), [Documentación] (https://github.com/rotty11/MiRepositorio/blob/master/op_mut&cross_explicacion.md)
+* [Ejercicio de Pablo, en C++] (https://github.com/pablopaolus/repositorio_pablopaolus/blob/master/mut_cross.cpp), [Documentación] (https://github.com/pablopaolus/repositorio_pablopaolus/blob/master/docu_mut_cross.md)
 
 ## Selección
 
