@@ -71,3 +71,7 @@ Añadir un procedimiento de selección al algoritmo genético, rueda de ruleta o
 ## Ejercicios de los alumnos
 
 Añadid, tras hacer un pull de este repositorio y debajo de cada ejercicio, un enlace a vuestro ejercicio y luego a continuación un pull request. Los ejercicios los puedes publicar tanto en un repositorio como en un [Gist (para los que incluyan un solo script)](http://gist.github.com).
+
+## A dónde ir desde aquí
+
+Continúa con la [tercera sesión del curso](tercera.md).
