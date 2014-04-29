@@ -9,7 +9,8 @@ Durante cada sesión, los alumnos tendrán que hacer lo siguiente
 * Actualizar repositorio que contiene el material de la asignatura
 * Leer los objetivos de la misma
 * Buscar material para cumplir esos objetivos y usar el material proporcionado por el profesor.
-* Realizar los ejercicios y indicárselo al profesor mediante una modificación de la página de la asignatura y un [*pull request*](https://help.github.com/articles/using-pull-requests).
+* Realizar los ejercicios y indicárselo al profesor mediante una
+  modificación de la página de la sesión correspondiente y un [*pull request*](https://help.github.com/articles/using-pull-requests).
 
 ## Sesiones de trabajo
 
