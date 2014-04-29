@@ -15,3 +15,5 @@ Durante cada sesión, los alumnos tendrán que hacer lo siguiente
 
 * [Primera sesión](primera.md)
 * [Segunda sesión](segunda.md), 10 de abril de 2014.
+* [Tercera sesión](tercera.md), 29 de abril de 2014.
+* [Instrucciones para entregar el trabajo final](final.md), fecha por determinar.
