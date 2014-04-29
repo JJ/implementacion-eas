@@ -44,6 +44,7 @@ Implementar esta función. Medir tiempos para diferentes tamaños de cadena, 128
 
 * [Ejercicio de Juanjo, en C++] (https://github.com/rotty11/MiRepositorio/blob/master/ev_fitness.cpp), [Documentación] (https://github.com/rotty11/MiRepositorio/blob/master/ev_fitness_explicacion.md), [Mediciones] (https://github.com/rotty11/MiRepositorio/blob/master/ev_fitness_tiempos.txt)
 * [Ejercicio de Pablo, en C++] (https://github.com/pablopaolus/repositorio_pablopaolus/blob/master/fitness.cpp), [Documentación] (https://github.com/pablopaolus/repositorio_pablopaolus/blob/master/docu_fitness.md), [Mediciones] (https://github.com/pablopaolus/repositorio_pablopaolus/blob/master/medidas_tiempo_fitness.txt)
+* [Ejercicio de Paloma, en Perl] (https://github.com/unintendedbear/unintendedbear-eas/blob/master/EA_Paloma.pl), [Documentación] (https://github.com/unintendedbear/unintendedbear-eas/blob/master/SegundaSesi%C3%B3n.md)
 
 ## Mutación y crossover
 
