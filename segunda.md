@@ -66,7 +66,9 @@ En el [algoritmo genético canónico](http://geneura.ugr.es/~jmerelo/evolutionar
 
 ### Ejercicio
 
-Añadir un procedimiento de selección al algoritmo genético, rueda de ruleta o torneo, y ejecutar un algoritmo genético completo sobre alguna de las funciones de fitness usadas. Comprobar el efecto de diferentes parámetros: tamaño de población, por ejemplo. Comprobar también el tiempo necesario para resolver problemas de diferente tamaño 
+Añadir un procedimiento de selección al algoritmo genético, rueda de ruleta o torneo, y ejecutar un algoritmo genético completo sobre alguna de las funciones de fitness usadas. Comprobar el efecto de diferentes parámetros: tamaño de población, por ejemplo. Comprobar también el tiempo necesario para resolver problemas de diferente tamaño
+
+* [Ejercicio de Juanjo, en C++] (https://github.com/rotty11/MiRepositorio/blob/master/ag.cpp), [Documentación] (https://github.com/rotty11/MiRepositorio/blob/master/ag_explicacion.md), [Mediciones] (https://github.com/rotty11/MiRepositorio/blob/master/ag_tiempos.txt), [Log] (https://github.com/rotty11/MiRepositorio/blob/master/ag_log.txt)
 
 ## Ejercicios de los alumnos
 
