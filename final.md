@@ -34,6 +34,6 @@ mismo documento, al release (forma preferida) o a la documentación
 
 ## Trabajos entregados por los alumnos.
 
-* [Práctica final de Juanjo, en C++] (https://github.com/rotty11/Genetico2014), [Documentación] (https://github.com/rotty11/Genetico2014/blob/master/Documentacion.md)
+* [Práctica final de Juanjo, en C++](https://github.com/rotty11/Genetico2014), [Documentación](https://github.com/rotty11/Genetico2014/blob/master/Documentacion.md)
 
-[Práctica final de Pablo, en C++] (https://github.com/pablopaolus/AG_Pablo), [Documentación] (https://github.com/pablopaolus/AG_Pablo/blob/master/docu_ag_completo.md)
+* [Práctica final de Pablo, en C++](https://github.com/pablopaolus/AG_Pablo), [Documentación](https://github.com/pablopaolus/AG_Pablo/blob/master/docu_ag_completo.md)
